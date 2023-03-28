@@ -3,4 +3,102 @@
    uuid = "65148324-875C-446B-B03C-2D31DCA20B70"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4462CD74-A789-42D8-A57D-2D5B676D08E8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PicsumApp/Service/ImageStorageService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "store(image:forKey:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4462CD74-A789-42D8-A57D-2D5B676D08E8 - 90bac6815802785d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PicsumApp.ImageStorageService.store(image: __C.UIImage, forKey: Swift.String) -&gt; ()"
+                  moduleName = "PicsumApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/markmihaylov/Desktop/PicsumApp/PicsumApp/Service/ImageStorageService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "4462CD74-A789-42D8-A57D-2D5B676D08E8 - 8867b8c559f40d6c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in PicsumApp.ImageStorageService.store(image: __C.UIImage, forKey: Swift.String) -&gt; ()"
+                  moduleName = "PicsumApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/markmihaylov/Desktop/PicsumApp/PicsumApp/Service/ImageStorageService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A730196-A597-4AC0-B0DC-E4F3ACB49C47"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PicsumApp/Service/ImageStorageService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "store(image:forKey:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8A730196-A597-4AC0-B0DC-E4F3ACB49C47 - 8867b8c559f40d6c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in PicsumApp.ImageStorageService.store(image: __C.UIImage, forKey: Swift.String) -&gt; ()"
+                  moduleName = "PicsumApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/markmihaylov/Desktop/PicsumApp/PicsumApp/Service/ImageStorageService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "8A730196-A597-4AC0-B0DC-E4F3ACB49C47 - 8867b8c559f40d6c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in PicsumApp.ImageStorageService.store(image: __C.UIImage, forKey: Swift.String) -&gt; ()"
+                  moduleName = "PicsumApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/markmihaylov/Desktop/PicsumApp/PicsumApp/Service/ImageStorageService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "292">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>

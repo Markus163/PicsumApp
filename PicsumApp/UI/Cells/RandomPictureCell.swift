@@ -38,7 +38,6 @@ final class RandomPictureCell: UITableViewCell {
     
     // MARK: - Life Cycle
     override func prepareForReuse() {
-        // invalidate
         labelView.removeFromSuperview()
         cellImageView.image = nil
         currentId = 0

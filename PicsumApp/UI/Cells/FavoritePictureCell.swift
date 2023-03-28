@@ -10,7 +10,7 @@ import UIKit
 final class FavoritePictureCell: UITableViewCell {
     
     //MARK: - Properties
-    private  let picsumService: NetworkingService = .init()
+    private  let networkingService: NetworkingService = .init()
     private  let cellImageView: UIImageView = .init(frame: CGRect(x: 0,
                                                          y: 0,
                                                          width: UIScreen.main.bounds.width,
@@ -27,7 +27,7 @@ final class FavoritePictureCell: UITableViewCell {
     }
     
     func getStoredPicture(picId: Int) {
-        if let image = picsumService.getFavoritedImage(picId: picId) {
+        if let image = networkingService.getFavoritedImage(picId: picId) {
             cellImageView.image = image
         }
     }

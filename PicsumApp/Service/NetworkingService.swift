@@ -24,7 +24,6 @@ final class NetworkingService {
     func getImage(id: Int, completion: @escaping ImageCompletion) {
         let dataTask: URLSessionDataTask?
         let urlStirng = "https://picsum.photos/id/\(id)/info"
-        print(urlStirng)
         guard let url = URL(string: urlStirng) else {return}
         let request = URLRequest(url: url)
         dataTask =
